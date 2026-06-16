@@ -71,6 +71,19 @@ Research-Paper-Summarizer/
 
 ---
 
+## Gemini API Configuration
+
+Before generating summaries, configure your Gemini API key in the application.
+
+1. Open the application.
+2. Navigate to the API Configuration or Settings section.
+3. Enter your Gemini API key.
+4. Save the configuration.
+5. Upload a research paper and generate summaries.
+
+Note: A valid Gemini API key is required for AI-powered summarization and chat features.
+
+
 ##  Installation
 
 ### 1. Clone Repository
