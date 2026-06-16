@@ -87,15 +87,7 @@ cd backend
 pip install -r requirements.txt
 ```
 
-### 3. Configure Gemini API Key
-
-Create a `.env` file inside the backend folder:
-
-```env
-GEMINI_API_KEY=your_api_key_here
-```
-
-### 4. Start Backend
+### 3. Start Backend
 
 ```bash
 uvicorn main:app --reload
@@ -107,7 +99,7 @@ Backend runs on:
 http://localhost:8000
 ```
 
-### 5. Start Frontend
+### 4. Start Frontend
 
 Open a new terminal:
 
